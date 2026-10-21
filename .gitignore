@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno con claves secretas (NUNCA subir)
+.env
+.env.*
+!.env.example
+
+# Logs y sistema
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
